@@ -27,7 +27,7 @@ To provide a Java solution, edit Solution.java
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
-## -- Python cases --
+## Python cases
 ### Input:
 solution.solution("code")
 ### Output:
@@ -43,7 +43,7 @@ solution.solution("The quick brown fox jumps over the lazy dog")
 ### Output:   
     000001011110110010100010000000111110101001010100100100101000000000110000111010101010010111101110000000110100101010101101000000010110101001101100111100011100000000101010111001100010111010000000011110110010100010000000111000100000101011101111000000100110101010110110
 
-## -- Java cases --
+## Java cases
 ### Input:
 Solution.solution("code")
 ### Output:
